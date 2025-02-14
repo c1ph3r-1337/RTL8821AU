@@ -1,5 +1,4 @@
 
-```
 # RTL8821AU WiFi Adapter Driver Installation Guide
 
 This repository provides step-by-step instructions to install the RTL8821AU WiFi adapter driver on Ubuntu-based systems. Follow these commands to update your system, install the driver, and get your WiFi adapter up and running.
@@ -70,4 +69,4 @@ This project is licensed under the MIT License.
 ---
 
 Happy networking!
-```
+
