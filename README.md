@@ -62,10 +62,6 @@ This repository provides step-by-step instructions to install the RTL8821AU WiFi
 
 Contributions, suggestions, and bug fixes are welcome! Feel free to fork this repository and submit a pull request with your improvements.
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 Happy networking!
